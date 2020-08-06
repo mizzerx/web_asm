@@ -1,0 +1,23 @@
+aside ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+aside li {
+    float: center;
+}
+
+aside li {
+    text-decoration: none;
+    display: block;
+    padding: 98px 110px;
+    text-align: center;
+}
+
+th, td {
+    padding: 10px;
+}
+
+#link {
+    padding: 15px;
+}
